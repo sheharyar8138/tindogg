@@ -1,0 +1,87 @@
+body{
+    text-align: center;
+}
+.title-btns{
+    margin: 1rem;
+}
+#img{
+    transform: rotate(25deg); 
+    padding-top: 2rem;
+    width: 16rem;
+    padding-bottom: 1rem;
+    
+}
+#firstcontainer{
+    margin: auto;
+}
+#features{
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+    text-align: center;
+    
+}
+#awesomefont{
+    color: rgb(88, 88, 170);
+}
+#awesomefont:hover{
+    color: rgb(47, 47, 128);
+}
+.noxex{
+    margin: 4rem 0rem 4rem 0rem;
+}
+/* Testimonials */
+#testimonials{
+    background-color: #f58c8c;
+    text-align: center;
+    margin: auto;
+    padding: 0 0 100px 0;
+    color: antiquewhite;
+}
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+}
+
+/* Press */
+#press{
+    background-color: rgb(199 219 235);
+    text-align: center;
+    margin-top: 20px;
+    color: antiquewhite;
+}
+.testimonial-text{
+    padding: 3rem;
+}
+.press-image{
+    width: 60%;
+    padding: 1rem;
+    margin: 5% 0 0 0;
+}
+
+    
+  
+  
+control-prev:hover {
+    
+    padding: 0px 0px 0px 55px;
+    
+}
+.carousel-indicators  {
+    top: 112%;
+}
+#pricingg{
+    text-align: center;
+    margin: 5rem 20% ;
+}
+#cta{
+    background-color: #f58c8c;
+    text-align: center;
+    padding: 65px;
+}
+/* cta!!!!!!!!!!!!!! */
+.cta-btns{
+    margin: 1rem;
+}
+#footer{
+    text-align: center;
+}
